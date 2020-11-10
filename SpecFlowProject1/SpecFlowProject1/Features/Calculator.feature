@@ -9,7 +9,7 @@ Link to a feature: [Calculator](SpecFlowProject1/Features/Calculator.feature)
 
 @mytag
 Scenario: Add two numbers
-	Given the first number is 50
-	And the second number is 70
+	Given the first number is 5
+	And the second number is 7
 	When the two numbers are added
-	Then the result should be 120
+	Then the result should be 12
